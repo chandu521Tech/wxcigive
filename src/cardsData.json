@@ -1,0 +1,74 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "name": "Your portrait sketch in cross hatching",
+            "description": "Experience the magic of lines on A4-sized paper as they intertwine to encapsulate your or your loved one's existence in crosshatched wonder. Cherish the artistry that transforms mortal existence into a masterpiece on paper. Explore the world of crosshatched portraits and embrace the wonder of lines that define your unique presence.",
+            "author": "@brief_brevity",
+            "thumbnail": "./images/bb_blackTshirt.png"
+        },
+        {
+            "id": 2,
+            "name": "Pickled together graphic T-Shirt",
+            "description": "Your beloved studio in a jar, on your back, on a shirt. This classic graphic tee has a fun illustration depicting members of your team, you bet it’ll look good on you and the graphic is strategically placed at the back so you don’t have to awkwardly watch people admire the front of your shirt.",
+            "author": "@thuli",
+            "thumbnail": "./images/t_whiteTshirt.png"
+        },
+        {
+            "id": 3,
+            "name": "Your portrait sketch in cross hatching",
+            "description": "Experience the magic of lines on A4-sized paper as they intertwine to encapsulate your or your loved one's existence in crosshatched wonder. Cherish the artistry that transforms mortal existence into a masterpiece on paper. Explore the world of crosshatched portraits and embrace the wonder of lines that define your unique presence.",
+            "author": "@brief_brevity",
+            "thumbnail": "./images/pencilSketch.png"
+        },
+        {
+            "id": 4,
+            "name": "Your portrait sketch in cross hatching",
+            "description": "Experience the magic of lines on A4-sized paper as they intertwine to encapsulate your or your loved one's existence in crosshatched wonder. Cherish the artistry that transforms mortal existence into a masterpiece on paper. Explore the world of crosshatched portraits and embrace the wonder of lines that define your unique presence.",
+            "author": "@thuli",
+            "thumbnail": "./images/t_whiteTshirt.png"
+        },
+        {
+            "id": 5,
+            "name": "Your portrait sketch in cross hatching",
+            "description": "Experience the magic of lines on A4-sized paper as they intertwine to encapsulate your or your loved one's existence in crosshatched wonder. Cherish the artistry that transforms mortal existence into a masterpiece on paper. Explore the world of crosshatched portraits and embrace the wonder of lines that define your unique presence.",
+            "author": "@brief_brevity",
+            "thumbnail": "./images/pencilSketch.png"
+        },
+        {
+            "id": 6,
+            "name": "Your portrait sketch in cross hatching",
+            "description": "Experience the magic of lines on A4-sized paper as they intertwine to encapsulate your or your loved one's existence in crosshatched wonder. Cherish the artistry that transforms mortal existence into a masterpiece on paper. Explore the world of crosshatched portraits and embrace the wonder of lines that define your unique presence.",
+            "author": "@brief_brevity",
+            "thumbnail": "./images/bb_blackTshirt.png"
+        },
+        {
+            "id": 7,
+            "name": "Pickled together graphic T-Shirt",
+            "description": "Your beloved studio in a jar, on your back, on a shirt. This classic graphic tee has a fun illustration depicting members of your team, you bet it’ll look good on you and the graphic is strategically placed at the back so you don’t have to awkwardly watch people admire the front of your shirt.",
+            "author": "@thuli",
+            "thumbnail": "./images/t_whiteTshirt.png"
+        },
+        {
+            "id": 8,
+            "name": "Your portrait sketch in cross hatching",
+            "description": "Experience the magic of lines on A4-sized paper as they intertwine to encapsulate your or your loved one's existence in crosshatched wonder. Cherish the artistry that transforms mortal existence into a masterpiece on paper. Explore the world of crosshatched portraits and embrace the wonder of lines that define your unique presence.",
+            "author": "@brief_brevity",
+            "thumbnail": "./images/pencilSketch.png"
+        },
+        {
+            "id": 9,
+            "name": "Your portrait sketch in cross hatching",
+            "description": "Experience the magic of lines on A4-sized paper as they intertwine to encapsulate your or your loved one's existence in crosshatched wonder. Cherish the artistry that transforms mortal existence into a masterpiece on paper. Explore the world of crosshatched portraits and embrace the wonder of lines that define your unique presence.",
+            "author": "@thuli",
+            "thumbnail": "./images/t_whiteTshirt.png"
+        },
+        {
+            "id": 10,
+            "name": "Your portrait sketch in cross hatching",
+            "description": "Experience the magic of lines on A4-sized paper as they intertwine to encapsulate your or your loved one's existence in crosshatched wonder. Cherish the artistry that transforms mortal existence into a masterpiece on paper. Explore the world of crosshatched portraits and embrace the wonder of lines that define your unique presence.",
+            "author": "@brief_brevity",
+            "thumbnail": "./images/pencilSketch.png"
+        }
+    ]
+}
