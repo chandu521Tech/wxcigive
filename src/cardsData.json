@@ -2,73 +2,107 @@
     "cards": [
         {
             "id": 1,
-            "name": "Your portrait sketch in cross hatching",
-            "description": "Experience the magic of lines on A4-sized paper as they intertwine to encapsulate your or your loved one's existence in crosshatched wonder. Cherish the artistry that transforms mortal existence into a masterpiece on paper. Explore the world of crosshatched portraits and embrace the wonder of lines that define your unique presence.",
-            "author": "@brief_brevity",
-            "thumbnail": "./images/bb_blackTshirt.png"
+            "name": "Alongside",
+            "description": "The colours of the nature changes constantly and similarly in human life the circumstances also keep changing. The reflection in the water represents the inner feelings of human reflecting through their behaviour.",
+            "author": "@Smita Rane",
+            "thumbnail": "./images/Thumbnail-5.png",
+            "artType": "Painting"
         },
         {
             "id": 2,
-            "name": "Pickled together graphic T-Shirt",
-            "description": "Your beloved studio in a jar, on your back, on a shirt. This classic graphic tee has a fun illustration depicting members of your team, you bet it’ll look good on you and the graphic is strategically placed at the back so you don’t have to awkwardly watch people admire the front of your shirt.",
-            "author": "@thuli",
-            "thumbnail": "./images/t_whiteTshirt.png"
+            "name": "Water color painting",
+            "description": "Envision a tranquil water color painting that transports you to a picturesque valley, a serene escape from the daily hustle.",
+            "author": "@chirag_bansale",
+            "thumbnail": "./images/Thumbnail-4.png",
+            "artType": "Painting"
         },
         {
             "id": 3,
-            "name": "Your portrait sketch in cross hatching",
-            "description": "Experience the magic of lines on A4-sized paper as they intertwine to encapsulate your or your loved one's existence in crosshatched wonder. Cherish the artistry that transforms mortal existence into a masterpiece on paper. Explore the world of crosshatched portraits and embrace the wonder of lines that define your unique presence.",
-            "author": "@brief_brevity",
-            "thumbnail": "./images/pencilSketch.png"
+            "name": "Pickled together graphic T-Shirt",
+            "description": "Your beloved studio in a jar, on your back, on a shirt. This classic graphic tee has a fun illustration depicting members of your team, you bet it’ll look good on you and the graphic is strategically placed at the back so you don’t have to awkwardly watch people admire the front of your shirt.",
+            "author": "@Thuli Chishi",
+            "thumbnail": "./images/Thumbnail-1.png",
+            "artType": "T-Shirt (Back Print)"
         },
         {
             "id": 4,
-            "name": "Your portrait sketch in cross hatching",
-            "description": "Experience the magic of lines on A4-sized paper as they intertwine to encapsulate your or your loved one's existence in crosshatched wonder. Cherish the artistry that transforms mortal existence into a masterpiece on paper. Explore the world of crosshatched portraits and embrace the wonder of lines that define your unique presence.",
-            "author": "@thuli",
-            "thumbnail": "./images/t_whiteTshirt.png"
+            "name": "Graffiti Grunge",
+            "description": "Thrilling fusion of two iconic street art forms, channeling the raw energy of grunge textures and the rebellious spirit of graffiti-style outlines. These sharp, dynamic lines draw you into a world of urban expression, where rules are meant to be broken, and creativity knows no bounds.",
+            "author": "@csjasweth",
+            "thumbnail": "./images/Thumbnail-6.png",
+            "artType": "T-Shirt (Back Print)"
         },
         {
             "id": 5,
-            "name": "Your portrait sketch in cross hatching",
-            "description": "Experience the magic of lines on A4-sized paper as they intertwine to encapsulate your or your loved one's existence in crosshatched wonder. Cherish the artistry that transforms mortal existence into a masterpiece on paper. Explore the world of crosshatched portraits and embrace the wonder of lines that define your unique presence.",
-            "author": "@brief_brevity",
-            "thumbnail": "./images/pencilSketch.png"
+            "name": "Balloon Koons",
+            "description": "A whimsical tribute to Jeff Koons, this T-shirt design playfully incorporates typography inspired by his iconic 'Balloon Dog' sculpture. A wearable masterpiece, it seamlessly blends pop art with typographic flair for a fun visual experience.",
+            "author": "@csjasweth",
+            "thumbnail": "./images/Thumbnail-8.png",
+            "artType": "T-Shirt (Back Print)"
         },
         {
             "id": 6,
-            "name": "Your portrait sketch in cross hatching",
-            "description": "Experience the magic of lines on A4-sized paper as they intertwine to encapsulate your or your loved one's existence in crosshatched wonder. Cherish the artistry that transforms mortal existence into a masterpiece on paper. Explore the world of crosshatched portraits and embrace the wonder of lines that define your unique presence.",
-            "author": "@brief_brevity",
-            "thumbnail": "./images/bb_blackTshirt.png"
+            "name": "Soar together graphic T-Shirt",
+            "description": "Back PrintThe hot air balloon is not just a vessel; it's a symbol of unity and togetherness. Balloon’s  basket representing how different people in the studio come together with a sense of joy and camaraderie. Enjoy this vibrant artwork for yourself or your loved ones this Give season",
+            "author": "@chirag_bansal",
+            "thumbnail": "./images/Thumbnail-3.png",
+            "artType": "T-Shirt (Back Print)"
         },
         {
             "id": 7,
-            "name": "Pickled together graphic T-Shirt",
-            "description": "Your beloved studio in a jar, on your back, on a shirt. This classic graphic tee has a fun illustration depicting members of your team, you bet it’ll look good on you and the graphic is strategically placed at the back so you don’t have to awkwardly watch people admire the front of your shirt.",
-            "author": "@thuli",
-            "thumbnail": "./images/t_whiteTshirt.png"
+            "name": "The last catch",
+            "description": "In the fading light of day, the last catch of a fisherman tells the story of patience, resilience, and nature's bounty. Each fish, a glimpse into the ebb and flow of life's treasures, cradled by the hands that honor the sea's wisdom.",
+            "author": "@Kishor C",
+            "thumbnail": "./images/Thumbnail-12.png",
+            "artType": "Photo"
         },
         {
             "id": 8,
-            "name": "Your portrait sketch in cross hatching",
-            "description": "Experience the magic of lines on A4-sized paper as they intertwine to encapsulate your or your loved one's existence in crosshatched wonder. Cherish the artistry that transforms mortal existence into a masterpiece on paper. Explore the world of crosshatched portraits and embrace the wonder of lines that define your unique presence.",
-            "author": "@brief_brevity",
-            "thumbnail": "./images/pencilSketch.png"
+            "name": "Ganga Ghat",
+            "description": "Capture the soul of Udaipur's Ganga Ghat at dawn in this photograph. The scene unfolds in a symphony of beauty. The tranquil river mirrors the vivid dawn sky, inviting exploration through captivating reflections and graceful flurry of birds.",
+            "author": "@csjasweth",
+            "thumbnail": "./images/Thumbnail-11.png",
+            "artType": "Photo"
         },
         {
             "id": 9,
-            "name": "Your portrait sketch in cross hatching",
-            "description": "Experience the magic of lines on A4-sized paper as they intertwine to encapsulate your or your loved one's existence in crosshatched wonder. Cherish the artistry that transforms mortal existence into a masterpiece on paper. Explore the world of crosshatched portraits and embrace the wonder of lines that define your unique presence.",
-            "author": "@thuli",
-            "thumbnail": "./images/t_whiteTshirt.png"
+            "name": "Retro Role",
+            "description": "Marrying grunge textures with retro outlines, this T-shirt design is a timeless masterpiece—edgy and nostalgic. The lines evoke an era of bold, clean, and iconic design, offering a wearable journey back in time.",
+            "author": "@csjasweth",
+            "thumbnail": "./images/Thumbnail-7.png",
+            "artType": "T-Shirt (Back Print)"
         },
         {
             "id": 10,
+            "name": "Together Motif",
+            "description": "An art piece from the 'postcard' series using motifs and recurring patterns to show a group of people huddling.",
+            "author": "@Sushant Sharma",
+            "thumbnail": "./images/Thumbnail-2.png",
+            "artType": "T-Shirt (Back Print)"
+        },
+        {
+            "id": 11,
+            "name": "Inkwell Waves",
+            "description": "Experience a captivating fusion of typography and fluid elegance—a wearable work of art that mirrors the dynamic spirit of nature. Each letter transforms into a rhythmic wave, capturing the soothing, almost hypnotic essence of the ebb and flow of the ocean.",
+            "author": "@csjasweth",
+            "thumbnail": "./images/Thumbnail-9.png",
+            "artType": "T-Shirt (Back Print)"
+        },
+        {
+            "id": 12,
+            "name": "Harmony Note",
+            "description": "harmonious symphony of typography inspired by the delicate texture and rhythmic flow of musical notes. It's a wearable masterpiece that speaks to the soul of music and design.",
+            "author": "@csjasweth",
+            "thumbnail": "./images/Thumbnail-10.png",
+            "artType": "T-Shirt (Back Print)"
+        },
+        {
+            "id": 13,
             "name": "Your portrait sketch in cross hatching",
-            "description": "Experience the magic of lines on A4-sized paper as they intertwine to encapsulate your or your loved one's existence in crosshatched wonder. Cherish the artistry that transforms mortal existence into a masterpiece on paper. Explore the world of crosshatched portraits and embrace the wonder of lines that define your unique presence.",
+            "description": "Experience the magic of lines on A4-sized paper as it elevates mortal existence into a paper masterpiece. Dive into the realm of crosshatched portraits, embracing the wonder of lines that delineate your unique presence.",
             "author": "@brief_brevity",
-            "thumbnail": "./images/pencilSketch.png"
+            "thumbnail": "./images/Thumbnail-0.png",
+            "artType": "Custom Sketch"
         }
     ]
 }

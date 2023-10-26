@@ -39,7 +39,7 @@ function App() {
             <div className="cardDetailsDialog">
               <div className="cardImage" style={{backgroundImage: `url(${selectedCard?.thumbnail})`}}></div>
               <div className="cardDetails">
-                <div className="auctionItem">Auction Item</div>
+                <div className="auctionItem">{selectedCard?.artType}</div>
                 <h1 className="cardHeader">
                   {selectedCard?.name}
                 </h1>

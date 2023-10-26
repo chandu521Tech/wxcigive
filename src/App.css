@@ -80,6 +80,7 @@ main {
   background-size: cover;
   background-repeat: no-repeat;
   cursor: pointer;
+  border: 1px solid #cccccc;
 }
 .popupContainer {
   width: 100%;
@@ -89,22 +90,26 @@ main {
   top: 0px;
   left: 0px;
   z-index: 1;
+  backdrop-filter: blur(10px);
 }
 .cardDetailsDialog {
-  width: calc(100% - 30%);
-  height: 50%;
+  width: calc(100% - 20%);
+  height: 80%;
   background-color: #000000;
   display: flex;
   flex-direction: row;
   margin: 0 auto;
-  transform: translateY(50%);
+  transform: translateY(15%);
   position: relative;
+  border-radius: 32px;
+  overflow: hidden;
 }
 .cardImage {
   width: 60%;
   height: 100%;
   background-size: cover;
   background-repeat: no-repeat;
+  aspect-ratio: 1;
 }
 .cardDetails {
   width: 40%;
@@ -132,10 +137,12 @@ main {
   color: #FFF;
   font-size: 34px;
   font-style: normal;
-  font-weight: 800;
-  line-height: 100%; /* 90px */
-  letter-spacing: -1.8px;
+  line-height: 100%; 
   margin: 0px;
+  font-size: 34px;
+  font-weight: 750;
+  letter-spacing: -1px;
+  margin: 0;
 }
 .artBy {
   color: #FFF;
@@ -168,17 +175,18 @@ main {
   background-image: url("../public/images/GiveIcon.png");
   background-size: cover;
   background-repeat: no-repeat;
-  margin-left: 88%;
-  margin-top: 20%;
+  position: absolute;
+  right: 30px;
+  bottom: 30px;
 }
 .closeIcon {
-  width: 22px;
-  height: 22px;
+  width: 16px;
+  height: 16px;
   z-index: 999;
   position: absolute;
   right: 0px;
   top: 0px;
-  margin: 16px 16px 0px 0px;
+  margin: 32px 32px 0px 0px;
   background-image: url("../public/images/CloseIcon.svg");
   background-size: cover;
   background-repeat: no-repeat;
@@ -203,5 +211,104 @@ main {
   .cardsContainer {
     width: 100%;
   }
-  
+
+  /*media query for mobile*/
+  @media screen and (max-width: 480px)  {
+    .App {
+      width: calc(100% - 5%);
+    }
+    .appHeader {
+      aspect-ratio: 16/5;
+    }
+    .pageHeader {
+      width: calc(100% - 10%);
+      padding: 30px;
+    }
+    .wxciAuctionLogo {
+      width: 168px;
+      height: 24px;
+      top: -12px;
+    }
+    .pageHeader p {
+      font-size: 16px;
+    }
+    .cardDetailsDialog {
+      flex-direction: column;
+      height: 60%;
+      transform: translateY(30%);
+    }
+    .cardImage {
+      width: 100%;
+    }
+    .cardDetails {
+      width: 100%;
+      padding: 16px;
+    }
+    .auctionItem {
+      margin-bottom: 10px;
+    }
+    .auctionItem, .artBy {
+      font-size: 12px;
+    }
+    .artBy {
+      margin-top: 6px;
+      margin-bottom: 10px;
+    }
+    .cardHeader {
+      font-size: 20px;
+    }
+    .description {
+      font-size: 14px;
+    }
+    .giveSmallLogo {
+      width: 30px;
+      height: 30px;
+      right: 16px;
+      bottom: 16px;
+    }
+    .closeIcon {
+      background-image: url("../public/images/CloseIcon_mobile.svg");
+      margin: 20px 20px 0px 0px;
+    }
+  }
+
+  /*media query for tablet*/
+  @media screen and (min-width: 481px) and (max-width: 768px) {
+    .cardDetailsDialog {
+      flex-direction: column;
+    }
+    .cardImage {
+      width: 100%;
+    }
+    .cardDetails {
+      width: 100%;
+      padding: 16px;
+    }
+    .auctionItem {
+      margin-bottom: 10px;
+    }
+    .auctionItem, .artBy {
+      font-size: 14px;
+    }
+    .artBy {
+      margin-top: 6px;
+      margin-bottom: 10px;
+    }
+    .cardHeader {
+      font-size: 24px;
+    }
+    .description {
+      font-size: 18px;
+    }
+    .giveSmallLogo {
+      width: 30px;
+      height: 30px;
+      right: 16px;
+      bottom: 16px;
+    }
+    .closeIcon {
+      background-image: url("../public/images/CloseIcon_mobile.svg");
+      margin: 20px 20px 0px 0px;
+    }
+  }
 }
