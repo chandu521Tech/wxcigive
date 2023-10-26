@@ -29,7 +29,7 @@ main {
 
 .pageHeader {
   width: calc(100% - 20%);
-  aspect-ratio: 16/2;
+  aspect-ratio: 16/1;
   /* height: 153px; */
   background-color: #FFF4F2;
   border-radius: 20px; 
@@ -215,7 +215,7 @@ main {
   /*media query for mobile*/
   @media screen and (max-width: 480px)  {
     .App {
-      width: calc(100% - 5%);
+      width: 100%;
     }
     .appHeader {
       aspect-ratio: 16/5;
